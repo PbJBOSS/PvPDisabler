@@ -1,0 +1,16 @@
+[
+{
+  "modid": "pvpdisabler",
+  "name": "PvP Disabler",
+  "description": "Allows players to disable their pvp.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["PbJBOSS"],
+  "credits": "katubug",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
